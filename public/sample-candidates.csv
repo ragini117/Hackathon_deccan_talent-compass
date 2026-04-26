@@ -1,0 +1,9 @@
+name,skills,experience_years,location,education,projects,current_salary,notice_period
+Aarav Mehta,"React, TypeScript, Node.js, GraphQL, AWS",6,Bangalore,B.Tech CS,"Built fintech dashboards at PayU; migrated monolith to microservices",28 LPA,60 days
+Priya Nair,"Python, Django, PostgreSQL, Docker",4,Remote,M.Tech,"Healthtech analytics platform; HIPAA-compliant ETL",18 LPA,30 days
+Rahul Singh,"React Native, JavaScript, Firebase",3,Mumbai,B.Sc IT,"Consumer mobile apps for travel startup",12 LPA,15 days
+Ananya Iyer,"React, Next.js, TypeScript, TailwindCSS, Vercel",7,Bangalore,B.E. CS,"Led frontend at edtech unicorn; SSR migration; design system",36 LPA,90 days
+Vikram Patel,"Java, Spring Boot, Kafka, Kubernetes",8,Pune,M.S. CS,"Payments backend at large bank; high-throughput services",30 LPA,60 days
+Sneha Reddy,"React, Redux, JavaScript, Jest",2,Hyderabad,B.Tech,"Internal tools at SaaS startup",9 LPA,immediate
+Karan Verma,"Go, gRPC, Postgres, Redis",5,Bangalore,B.Tech CS,"Built ad-serving platform handling 50k rps",26 LPA,45 days
+Meera Joshi,"Product design, Figma, UX research",4,Remote,B.Des,"Designed onboarding flows for fintech apps",16 LPA,30 days
