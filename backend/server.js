@@ -407,6 +407,9 @@ Return ONLY valid JSON:
   }
 });
 
-app.listen(5000, () => {
-  console.log("Backend server is running at http://localhost:5000");
+// Use dynamic port for Render deployment
+const PORT = process.env.PORT || 5000;
+
+app.listen(PORT, () => {
+  console.log(`Backend server is running at http://localhost:${PORT}`);
 });
