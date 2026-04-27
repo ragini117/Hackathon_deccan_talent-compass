@@ -14,10 +14,24 @@ node_modules/
 dist/
 dist-ssr/
 
-# Env files (VERY IMPORTANT 🔐)
+# Env files 
 .env
 backend/.env
+.env.production
+.env.development
+.env.test
 *.local
+
+# Coverage and deployment artifacts
+coverage/
+.vercel/
+
+# Supabase local state
+supabase/.branches/
+supabase/.temp/
+
+# TypeScript build info
+*.tsbuildinfo
 
 # Editor directories and files
 .vscode/*
