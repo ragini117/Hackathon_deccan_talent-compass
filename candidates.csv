@@ -1,0 +1,61 @@
+name,skills,experience_years,location,education,projects,current_salary,notice_period
+Ragini Singh,"Python, Machine Learning, NLP, LangChain",2,Mumbai,B.E AIML,"RAG Chatbot, Disease Detection",400000,15 days
+Aman Verma,"Python, SQL, Data Analysis",1,Pune,B.Tech CSE,"Sales Dashboard, ETL Pipeline",300000,30 days
+Neha Sharma,"Python, Deep Learning, Computer Vision",3,Bangalore,M.Tech AI,"Brain Tumor Detection, CNN Model",600000,20 days
+Rahul Mehta,"Java, Spring Boot, Microservices",2,Delhi,B.Tech IT,E-commerce Backend API,500000,45 days
+Priya Patel,"Python, NLP, Transformers",2,Ahmedabad,B.E AIML,Text Summarization Tool,450000,15 days
+Karan Shah,"React, Node.js, MongoDB",1,Mumbai,B.Sc IT,"Blog Platform, Portfolio Site",280000,30 days
+Sneha Iyer,"Python, ML, Data Visualization",2,Chennai,B.Tech CSE,Customer Churn Prediction,420000,20 days
+Arjun Reddy,"Python, OpenCV, Computer Vision",3,Hyderabad,B.Tech AIML,Face Recognition System,650000,25 days
+Pooja Desai,"SQL, Power BI, Excel",1,Surat,B.Com Analytics,Business Dashboard,320000,30 days
+Vikram Singh,"Python, Flask, Deployment",2,Noida,B.Tech CSE,ML Deployment API,480000,15 days
+Ragini Singh 1,"Python, Machine Learning, NLP, LangChain",2,Mumbai,B.E AIML,"RAG Chatbot, Disease Detection",400000,15 days
+Aman Verma 1,"Python, SQL, Data Analysis",1,Pune,B.Tech CSE,"Sales Dashboard, ETL Pipeline",300000,30 days
+Neha Sharma 1,"Python, Deep Learning, Computer Vision",3,Bangalore,M.Tech AI,"Brain Tumor Detection, CNN Model",600000,20 days
+Rahul Mehta 1,"Java, Spring Boot, Microservices",2,Delhi,B.Tech IT,E-commerce Backend API,500000,45 days
+Priya Patel 1,"Python, NLP, Transformers",2,Ahmedabad,B.E AIML,Text Summarization Tool,450000,15 days
+Karan Shah 1,"React, Node.js, MongoDB",1,Mumbai,B.Sc IT,"Blog Platform, Portfolio Site",280000,30 days
+Sneha Iyer 1,"Python, ML, Data Visualization",2,Chennai,B.Tech CSE,Customer Churn Prediction,420000,20 days
+Arjun Reddy 1,"Python, OpenCV, Computer Vision",3,Hyderabad,B.Tech AIML,Face Recognition System,650000,25 days
+Pooja Desai 1,"SQL, Power BI, Excel",1,Surat,B.Com Analytics,Business Dashboard,320000,30 days
+Vikram Singh 1,"Python, Flask, Deployment",2,Noida,B.Tech CSE,ML Deployment API,480000,15 days
+Ragini Singh 2,"Python, Machine Learning, NLP, LangChain",2,Mumbai,B.E AIML,"RAG Chatbot, Disease Detection",400000,15 days
+Aman Verma 2,"Python, SQL, Data Analysis",1,Pune,B.Tech CSE,"Sales Dashboard, ETL Pipeline",300000,30 days
+Neha Sharma 2,"Python, Deep Learning, Computer Vision",3,Bangalore,M.Tech AI,"Brain Tumor Detection, CNN Model",600000,20 days
+Rahul Mehta 2,"Java, Spring Boot, Microservices",2,Delhi,B.Tech IT,E-commerce Backend API,500000,45 days
+Priya Patel 2,"Python, NLP, Transformers",2,Ahmedabad,B.E AIML,Text Summarization Tool,450000,15 days
+Karan Shah 2,"React, Node.js, MongoDB",1,Mumbai,B.Sc IT,"Blog Platform, Portfolio Site",280000,30 days
+Sneha Iyer 2,"Python, ML, Data Visualization",2,Chennai,B.Tech CSE,Customer Churn Prediction,420000,20 days
+Arjun Reddy 2,"Python, OpenCV, Computer Vision",3,Hyderabad,B.Tech AIML,Face Recognition System,650000,25 days
+Pooja Desai 2,"SQL, Power BI, Excel",1,Surat,B.Com Analytics,Business Dashboard,320000,30 days
+Vikram Singh 2,"Python, Flask, Deployment",2,Noida,B.Tech CSE,ML Deployment API,480000,15 days
+Ragini Singh 3,"Python, Machine Learning, NLP, LangChain",2,Mumbai,B.E AIML,"RAG Chatbot, Disease Detection",400000,15 days
+Aman Verma 3,"Python, SQL, Data Analysis",1,Pune,B.Tech CSE,"Sales Dashboard, ETL Pipeline",300000,30 days
+Neha Sharma 3,"Python, Deep Learning, Computer Vision",3,Bangalore,M.Tech AI,"Brain Tumor Detection, CNN Model",600000,20 days
+Rahul Mehta 3,"Java, Spring Boot, Microservices",2,Delhi,B.Tech IT,E-commerce Backend API,500000,45 days
+Priya Patel 3,"Python, NLP, Transformers",2,Ahmedabad,B.E AIML,Text Summarization Tool,450000,15 days
+Karan Shah 3,"React, Node.js, MongoDB",1,Mumbai,B.Sc IT,"Blog Platform, Portfolio Site",280000,30 days
+Sneha Iyer 3,"Python, ML, Data Visualization",2,Chennai,B.Tech CSE,Customer Churn Prediction,420000,20 days
+Arjun Reddy 3,"Python, OpenCV, Computer Vision",3,Hyderabad,B.Tech AIML,Face Recognition System,650000,25 days
+Pooja Desai 3,"SQL, Power BI, Excel",1,Surat,B.Com Analytics,Business Dashboard,320000,30 days
+Vikram Singh 3,"Python, Flask, Deployment",2,Noida,B.Tech CSE,ML Deployment API,480000,15 days
+Ragini Singh 4,"Python, Machine Learning, NLP, LangChain",2,Mumbai,B.E AIML,"RAG Chatbot, Disease Detection",400000,15 days
+Aman Verma 4,"Python, SQL, Data Analysis",1,Pune,B.Tech CSE,"Sales Dashboard, ETL Pipeline",300000,30 days
+Neha Sharma 4,"Python, Deep Learning, Computer Vision",3,Bangalore,M.Tech AI,"Brain Tumor Detection, CNN Model",600000,20 days
+Rahul Mehta 4,"Java, Spring Boot, Microservices",2,Delhi,B.Tech IT,E-commerce Backend API,500000,45 days
+Priya Patel 4,"Python, NLP, Transformers",2,Ahmedabad,B.E AIML,Text Summarization Tool,450000,15 days
+Karan Shah 4,"React, Node.js, MongoDB",1,Mumbai,B.Sc IT,"Blog Platform, Portfolio Site",280000,30 days
+Sneha Iyer 4,"Python, ML, Data Visualization",2,Chennai,B.Tech CSE,Customer Churn Prediction,420000,20 days
+Arjun Reddy 4,"Python, OpenCV, Computer Vision",3,Hyderabad,B.Tech AIML,Face Recognition System,650000,25 days
+Pooja Desai 4,"SQL, Power BI, Excel",1,Surat,B.Com Analytics,Business Dashboard,320000,30 days
+Vikram Singh 4,"Python, Flask, Deployment",2,Noida,B.Tech CSE,ML Deployment API,480000,15 days
+Ragini Singh 5,"Python, Machine Learning, NLP, LangChain",2,Mumbai,B.E AIML,"RAG Chatbot, Disease Detection",400000,15 days
+Aman Verma 5,"Python, SQL, Data Analysis",1,Pune,B.Tech CSE,"Sales Dashboard, ETL Pipeline",300000,30 days
+Neha Sharma 5,"Python, Deep Learning, Computer Vision",3,Bangalore,M.Tech AI,"Brain Tumor Detection, CNN Model",600000,20 days
+Rahul Mehta 5,"Java, Spring Boot, Microservices",2,Delhi,B.Tech IT,E-commerce Backend API,500000,45 days
+Priya Patel 5,"Python, NLP, Transformers",2,Ahmedabad,B.E AIML,Text Summarization Tool,450000,15 days
+Karan Shah 5,"React, Node.js, MongoDB",1,Mumbai,B.Sc IT,"Blog Platform, Portfolio Site",280000,30 days
+Sneha Iyer 5,"Python, ML, Data Visualization",2,Chennai,B.Tech CSE,Customer Churn Prediction,420000,20 days
+Arjun Reddy 5,"Python, OpenCV, Computer Vision",3,Hyderabad,B.Tech AIML,Face Recognition System,650000,25 days
+Pooja Desai 5,"SQL, Power BI, Excel",1,Surat,B.Com Analytics,Business Dashboard,320000,30 days
+Vikram Singh 5,"Python, Flask, Deployment",2,Noida,B.Tech CSE,ML Deployment API,480000,15 days
