@@ -14,7 +14,7 @@ node_modules/
 dist/
 dist-ssr/
 
-# Env files (VERY IMPORTANT 🔐)
+# Env files 
 .env
 backend/.env
 *.local
